@@ -1,1 +1,2 @@
-# firstRepo
+Hello, I'm new here.
+
